@@ -1,4 +1,4 @@
-**[Curso oferecido pela Data Science Academy](https://www.datascienceacademy.com.br/)**, focado nos **Fundamentos da Linguagem Python para Análise de Dados e Data Science**.
+**Curso oferecido pela [Data Science Academy](https://www.datascienceacademy.com.br/)**, focado nos **Fundamentos da Linguagem Python para Análise de Dados e Data Science**.
 
 O curso é composto por 20 módulos abrangentes:
 
